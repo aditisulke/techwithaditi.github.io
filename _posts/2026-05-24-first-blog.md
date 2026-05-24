@@ -1,19 +1,8 @@
 ---
 layout: post
-title: "My First Blog"
+title: "AI Agents for DevOps"
 date: 2026-05-24
 ---
-
-# Welcome
-
-This is my first Jekyll blog using GitHub Pages.
-
-## Topics
-
-- DevOps
-- Kubernetes
-- AI Agents
-- Temporal Workflows
 
 # 🚀 Building Production-Ready AI Agents for DevOps with Temporal
 
