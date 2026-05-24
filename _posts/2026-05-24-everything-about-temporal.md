@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding Temporal"
+title: "AI Agent for DevOps"
 date: 2026-05-24
 categories: devops ai temporal
 ---
