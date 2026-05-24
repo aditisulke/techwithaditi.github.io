@@ -14,3 +14,6 @@ Welcome to my DevOps blog.
 ## Conclusion
 
 This is my first GitHub blog.
+## Live Blog
+
+https://aditisulke.github.io/techwithaditi.github.io/
