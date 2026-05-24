@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Understanding Temporal"
+date: 2026-05-24
+categories: devops ai temporal
+---
+
 # ⏳ Understanding Temporal: The Backbone of Reliable AI and DevOps Workflows
 
 Modern distributed systems are complex.
