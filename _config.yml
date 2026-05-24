@@ -15,3 +15,6 @@
 .site-nav {
   font-size: 18px;
 }
+theme: minima
+title: Tech With Aditi
+description: DevOps and AI Engineering Blogs
