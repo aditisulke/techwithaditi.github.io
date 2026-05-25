@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "AI Agent for DevOps"
+title: "Everything to know about Temporal"
 date: 2026-05-24
-categories: devops ai temporal
+categories: Everything to know about Temporal
 ---
 
 # ⏳ Understanding Temporal: The Backbone of Reliable AI and DevOps Workflows
